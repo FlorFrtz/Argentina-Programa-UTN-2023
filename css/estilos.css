@@ -97,6 +97,10 @@ section{
     justify-content: center;
 }
 
+.imgReme:hover{
+    background-color: #af3c6c; padding: 20px;
+}
+
 
 .imgReme{
     
@@ -115,6 +119,9 @@ section{
     display: inline-flex;
 }
 
+.imgSecDos:hover{
+    background-color: #cad014; padding: 20px;
+}
 
 #Modelo, #ColorReme, #Estampas, #Talles{
     margin: 5px;
